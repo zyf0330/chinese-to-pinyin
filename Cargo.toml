@@ -1,0 +1,13 @@
+[package]
+name = "chinese-to-pinyin"
+version = "0.1.0"
+authors = ["zhaoyunfeng <zyf034100@google.com>"]
+edition = "2018"
+license = "MIT"
+repository = "https://github.com/zyf0330/chinese-to-pinyin"
+keywords = ["chinese", "pinyin", "cli"]
+categories = ["text-processing", "command-line-utilities"]
+readme="README.md"
+
+[dependencies]
+pinyin = "0.8.0"
